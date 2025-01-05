@@ -1,0 +1,17 @@
+# dogAndCat.yaml
+
+# Caminho raiz do dataset
+path: C:\Users\sebas\OneDrive\Desktop\yolo\dataset\dogAndCat
+
+# Divisão do dataset
+train: images/train  # Caminho relativo às imagens de treino
+val: images/val      # Caminho relativo às imagens de validação
+test: images/test    # (Opcional) Caminho relativo às imagens de teste
+
+# Número de classes
+nc: 2  # Número de classes (cachorro e gato)
+
+# Nomes das classes
+names:
+  0: Cat
+  1: Dog
