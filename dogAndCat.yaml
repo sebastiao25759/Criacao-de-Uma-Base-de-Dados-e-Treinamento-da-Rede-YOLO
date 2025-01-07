@@ -1,7 +1,7 @@
 # dogAndCat.yaml
 
 # Caminho raiz do dataset
-path: C:\Users\sebas\OneDrive\Desktop\yolo\dataset\dogAndCat
+path: dataset/dogAndCat/images
 
 # Divisão do dataset
 train: images/train  # Caminho relativo às imagens de treino
